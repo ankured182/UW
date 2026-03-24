@@ -1,0 +1,27 @@
+{
+    "Name_English": "HALIMA BEGUM",
+    "Name_Bengali": "হালিমা বেগম",
+    "Age": 44,
+    "NID": "0013386219409",
+    "NID_Mismatch_Flag": true,
+    "NID_Mismatch_Details": "NID on form (0013386219409) does not match NID on ID card (9013386219409).",
+    "Permanent_Address": {
+        "Village_House_Road_English": "Dakkhin Uttarishergaon, Uttarishergaon",
+        "Village_House_Road_Bengali": "দক্ষিণ উত্তরিশেরগাঁও, উত্তরিশেরগাঁও",
+        "Post_Office": "Banglabazar",
+        "Post_Code": "3070",
+        "Upazila_PS": "Dowarabazar",
+        "District": "Sunamganj",
+        "Full_Address_English": "Dakkhin Uttarishergaon, Uttarishergaon, Post Office: Banglabazar, Post Code: 3070, Upazila/PS: Dowarabazar, District: Sunamganj",
+        "Full_Address_Bengali": "দক্ষিণ উত্তরিশেরগাঁও, উত্তরিশেরগাঁও, ডাকঘর: বাংলাবাজার, পোস্ট কোড: ৩০৭০, উপজেলা/থানা: দোয়ারাবাজার, জেলা: সুনামগঞ্জ"
+    },
+    "Product_Information": {
+        "Plan_Name_English": "Anticipated Endowment Insurance Plan - (3 Stage) With Profit",
+        "Plan_Name_Bengali": "প্রত্যাশিত মেয়াদী বীমা পরিকল্পনা- (৩ স্তর) লাভসহ",
+        "Policy_Term_Years": 20,
+        "Sum_Assured_Amount": "5,00,000 BDT",
+        "Premium_Mode": "Monthly/মাসিক"
+    },
+    "Medical_History_English": "Applicant is currently healthy with no history of major diseases or operations. Father deceased in 2020 at age 60 due to natural causes. Mother (89), two brothers (28, 20), and two sons (22, 20) are alive and healthy. No family history of major illnesses found.",
+    "Medical_History_Bengali": "আবেদনকারী বর্তমানে সুস্থ। তার কোনো বড় ধরনের রোগ বা অস্ত্রোপচারের ইতিহাস নেই। বাবা ৬০ বছর বয়সে (২০২০ সালে) স্বাভাবিক কারণে মারা গেছেন। মা (৮৯), দুই ভাই (২৮, ২০) এবং দুই ছেলে (২২, ২০) সুস্থ ও জীবিত আছেন। পরিবারে কোনো গুরুতর রোগের ইতিহাস পাওয়া যায়নি।"
+}
